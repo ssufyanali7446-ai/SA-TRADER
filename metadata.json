@@ -1,0 +1,6 @@
+{
+  "name": "AUX Trader",
+  "description": "Automated trading bot for AUX/USD and Forex pairs with real online feeds, strategy backtesting, risk management, and expert trading views in Urdu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
